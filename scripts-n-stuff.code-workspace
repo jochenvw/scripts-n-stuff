@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "_root",
+			"path": "."
+		},
+		{
+			"name": "Azure SKU Lister",
+			"path": "src/sku-lister"
+		}
+	],
+	"settings": {}
+}
