@@ -1,0 +1,3577 @@
+[
+    {
+        "offer": "burstable-enablement",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83822"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83725"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83729"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83740"
+            }
+        ]
+    },
+    {
+        "offer": "burstable-transaction",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83799"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83756"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83755"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83817"
+            }
+        ]
+    },
+    {
+        "offer": "transactions-hdd",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "N9H-01263"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-01263"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-01263"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "N9H-01263"
+            }
+        ]
+    },
+    {
+        "offer": "transactions-ssd",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAD-26003"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-26003"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-26003"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-26003"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-snapshot",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82114"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00420"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00422"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80294"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-v2-snapshot",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81811"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00969"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00968"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80334"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p1-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81793"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-75936"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-75897"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-75816"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p1-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82798"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82522"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82552"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83177"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p1-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82007"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82077"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p1-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82798"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82522"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82552"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83177"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p2-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81946"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-75833"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-75957"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-75731"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p2-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83032"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83194"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82758"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82684"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p2-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82248"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82199"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p2-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83032"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83194"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82758"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82684"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p3-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82194"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-75776"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-75973"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-75793"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p3-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82577"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83271"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83004"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83228"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p3-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81749"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82269"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p3-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82577"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83271"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83004"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83228"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p4-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81936"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18212"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18167"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80317"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p4-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82989"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83423"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83088"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83306"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p4-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82093"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81657"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p4-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82989"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83423"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83088"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83306"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p6-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81689"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18192"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18180"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80325"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p6-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82691"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83470"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83114"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83178"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p6-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82013"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81935"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p6-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82691"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83470"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83114"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83178"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p10-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82319"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18125"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18188"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80314"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p10-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83309"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83051"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83161"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82580"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p10-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81703"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81791"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p10-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83309"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83051"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83161"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82580"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p15-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82229"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18274"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18292"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80324"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p15-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81771"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77863"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77737"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78290"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p15-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82152"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82417"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p15-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81771"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77863"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77737"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78290"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p20-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81755"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18161"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18151"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80322"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p20-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82371"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77757"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77703"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78323"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p20-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82274"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81709"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p20-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82371"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77757"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77703"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78323"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p30-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81631"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18194"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18124"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80323"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p30-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81875"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77666"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77646"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78296"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p30-lrs-one-year",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": null
+            },
+            {
+                "region": "europe-north",
+                "SKU": null
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p30-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81856"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82032"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p30-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81875"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77666"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77646"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78296"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p40-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81667"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18250"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18238"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80319"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p40-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81624"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77880"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77714"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78350"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p40-lrs-one-year",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": null
+            },
+            {
+                "region": "europe-north",
+                "SKU": null
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p40-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82064"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82212"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p40-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81624"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77880"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77714"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78350"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p50-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81619"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18265"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18251"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80321"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p50-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82136"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77887"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77773"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78325"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p50-lrs-one-year",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": null
+            },
+            {
+                "region": "europe-north",
+                "SKU": null
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p50-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82027"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82239"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p50-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82136"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77887"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77773"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78325"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p60-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82249"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55875"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55885"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-77006"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p60-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81611"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77643"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77642"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78285"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p60-lrs-one-year",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": null
+            },
+            {
+                "region": "europe-north",
+                "SKU": null
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p60-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82045"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81955"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p60-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81611"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77643"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77642"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78285"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p70-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81649"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55897"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55884"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-77010"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p70-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81579"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77724"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77733"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78284"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p70-lrs-one-year",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": null
+            },
+            {
+                "region": "europe-north",
+                "SKU": null
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p70-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82153"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81917"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p70-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81579"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77724"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77733"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78284"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p80-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81597"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55898"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55887"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-77000"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p80-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81845"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77849"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77743"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78282"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p80-lrs-one-year",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": null
+            },
+            {
+                "region": "europe-north",
+                "SKU": null
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p80-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81696"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82374"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "premiumssd-p80-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81845"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-77849"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-77743"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78282"
+            }
+        ]
+    },
+    {
+        "offer": "premiumssdv2-capacity",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAN-35308"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAM-85023"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAN-32389"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAN-34772"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-snapshot-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81811"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00969"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00968"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80334"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-snapshot-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAM-83762"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-18446"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-18431"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80344"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s4",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81695"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00920"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00919"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80327"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s6",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82238"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00940"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00939"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80329"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s10",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81821"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00869"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00868"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80328"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s15",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82200"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAA-70160"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAA-70168"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80330"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s20",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81769"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00886"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00885"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80331"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s30",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81770"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "N9H-00903"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "N9H-00902"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80326"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s40",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81994"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAA-49429"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAA-49408"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80337"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s50",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81888"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAA-49454"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAA-49432"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80332"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s60",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81594"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAA-70137"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAA-70148"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78700"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s70",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81653"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55949"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55950"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78707"
+            }
+        ]
+    },
+    {
+        "offer": "standardhdd-s80",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81671"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55990"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55971"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78712"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-snapshot",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82052"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-25993"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-25974"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80283"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e1-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81765"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-76226"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-76277"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-76944"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e1-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82645"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82547"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82751"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83144"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e1-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82343"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81733"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e1-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82645"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82547"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82751"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83144"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e2-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82180"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-76212"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-76268"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-76933"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e2-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83158"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83181"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83130"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83380"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e2-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82075"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82133"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e2-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83158"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83181"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83130"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83380"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e3-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82138"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-76332"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-76254"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-76935"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e3-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83446"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83325"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82864"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83268"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e3-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82367"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82159"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e3-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83446"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83325"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82864"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83268"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e4-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81602"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-37224"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-37226"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80363"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e4-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82973"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82724"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83232"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82933"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e4-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81815"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82002"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e4-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82973"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82724"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83232"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82933"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e6-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82341"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-37214"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-37245"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80369"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e6-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82925"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83072"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82802"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83081"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e6-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81680"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81730"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e6-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82925"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83072"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82802"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83081"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e10-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82082"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-36603"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-26020"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80293"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e10-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82516"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82797"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83076"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82843"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e10-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81626"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82140"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e10-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82516"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82797"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83076"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82843"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e15-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82177"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-36700"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-36689"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80290"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e15-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83166"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82629"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83332"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83285"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e15-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82039"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81897"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e15-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83166"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82629"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83332"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83285"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e20-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82162"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-36607"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-26022"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80297"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e20-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82827"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83036"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83341"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82502"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e20-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82069"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82044"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e20-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82827"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83036"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83341"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82502"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e30-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81720"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-26036"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-36618"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80286"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e30-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82967"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82630"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82867"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83452"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e30-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81666"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81688"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e30-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82967"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82630"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82867"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83452"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e40-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81807"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-36642"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-36625"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80308"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e40-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82535"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82836"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82750"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82765"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e40-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81871"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81895"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e40-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82535"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82836"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82750"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82765"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e50-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82033"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-36676"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-36651"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAD-80295"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e50-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83435"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83471"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82985"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82670"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e50-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81878"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81751"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e50-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83435"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83471"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82985"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82670"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e60-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82143"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55788"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55752"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78703"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e60-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82821"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82874"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83220"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83066"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e60-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82158"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82386"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e60-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82821"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-82874"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83220"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-83066"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e70-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-82182"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55782"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55773"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78726"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e70-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83320"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83256"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82953"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82918"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e70-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81778"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-81796"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e70-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83320"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83256"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82953"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82918"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e80-lrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-81577"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-55792"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-55774"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78715"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e80-lrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83394"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83060"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83434"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82563"
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e80-zrs",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": null
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-81678"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-82196"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": null
+            }
+        ]
+    },
+    {
+        "offer": "standardssd-e80-zrs-disk-mount",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83394"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAF-83060"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAF-83434"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-82563"
+            }
+        ]
+    },
+    {
+        "offer": "ultrassd-iops",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83965"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-80688"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-80524"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78130"
+            }
+        ]
+    },
+    {
+        "offer": "ultrassd-stored",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83963"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-80690"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-80523"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78132"
+            }
+        ]
+    },
+    {
+        "offer": "ultrassd-throughput",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83966"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-80685"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-80527"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78116"
+            }
+        ]
+    },
+    {
+        "offer": "ultrassd-vcpu",
+        "regionalSKUs": [
+            {
+                "region": "global",
+                "SKU": null
+            },
+            {
+                "region": "sweden-central",
+                "SKU": "AAF-83964"
+            },
+            {
+                "region": "europe-west",
+                "SKU": "AAD-80689"
+            },
+            {
+                "region": "europe-north",
+                "SKU": "AAD-80526"
+            },
+            {
+                "region": "germany-west-central",
+                "SKU": "AAF-78129"
+            }
+        ]
+    }
+]
